@@ -1,0 +1,38 @@
+*{
+    background-color: rgb(5, 4, 4);
+    color: whitesmoke;
+    font-family: cursive;
+}
+nav a:hover{
+    color: rgb(233, 172, 60);
+}
+nav a{
+    padding:0px;
+    color: rgb(34, 223, 65);
+}
+img{
+    border-radius: 60%;
+}
+
+.main{
+    background-image: url(backgroung.jpg);
+    background-size: cover;
+    padding: 40px;
+}
+h2{
+    color: rgb(236, 160, 20);
+    text-align: center;
+    font-family: fantasy;
+    border-bottom: 100px white;
+}
+
+h1{
+    text-align: center;
+    color: royalblue;
+    border-radius: 80%;
+    background-color:gold;
+}
+
+nav{
+    text-align: center;
+}
